@@ -1,0 +1,5 @@
+library(reshape2)
+xyz=data.frame (lapply(sessionInfo()$otherPkgs,function(x) c(x$Package, x$Version, x$License)))
+zyx=t(xyz)
+colnames(zyx)= c("Package","Version(>=)","License")
+kable(zyx)
