@@ -9,6 +9,7 @@ The main challenge in evaluating the correctness and information quality of hete
 - OpenStreetMap data from the GDI
 - Gnu R version 3.2.4 (2016-03-10)
 - R Libraries: 
+
 |             |Package      |Version(>=) |License                   |
 |:------------|:------------|:-----------|:-------------------------|
 |reshape2     |reshape2     |1.4.1       |MIT + file LICENSE        |
