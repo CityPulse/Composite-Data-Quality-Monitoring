@@ -41,7 +41,7 @@ The main challenge in evaluating the correctness and information quality of hete
 Detailled installation / execution instructions will follow.
 
 ## Contributers
-The GDI component was developed as part of the EU project CityPulse. The consortium member University of Applied Sciences provided the main contributions for this component.
+The GDI component was developed as part of the EU project CityPulse. The consortium member University of Applied Sciences Osnabrück provided the main contributions for this component.
 
 ## Link
 The code of the needed GDI component can be found here: https://github.com/CityPulse/GDI.git
